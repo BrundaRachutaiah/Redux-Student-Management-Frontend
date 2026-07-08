@@ -2,7 +2,7 @@ import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
 const API_URL =
-  "https://student-management-server-student-neog.replit.app/students";
+  "https://redux-student-management-backend.vercel.app/students";
 
 // =========================
 // GET Students
